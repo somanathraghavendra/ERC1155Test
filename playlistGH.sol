@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/contracts/token/ERC1155/ERC1155.sol";
 
-contract playlistNftGH is ERC1155 {
+contract testPlayNFT is ERC1155 {
     uint256 public constant LIST_TOKEN_ID = 0;
 
 
